@@ -1,0 +1,22 @@
+.sidebar {
+    background-color: aquamarine;
+    grid-row: 1 / span 2;
+    /* height: 100vh; */
+    /* justify content stretch? */
+
+    /* text styles */
+    font-size: 2rem;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+
+}
+
+.sidebar-item {
+    padding-top: 3rem;
+    padding-right: 4rem;
+    text-align: center;
+}
+
+.last {
+    padding-bottom: 3rem;
+}
