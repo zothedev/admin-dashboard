@@ -27,7 +27,6 @@
     align-items: center; /* vertical */
     column-gap: 2rem;
     padding-top: 1rem;
-
 }
 
 .row1 input {
@@ -82,4 +81,16 @@
 
 .row2 button:last-of-type {
     justify-self: left;
+}
+
+.row1 > *, .row2 > * {
+    cursor: pointer;
+}
+
+.row2 .welcome-msg{
+    cursor: pointer;
+}
+
+.row1 input {
+    cursor: auto;
 }

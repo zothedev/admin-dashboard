@@ -15,5 +15,10 @@
     height: 40px;
 }
 
+html, body {
+    height: 100%;
+    overflow: hidden;
+}
+
 
 

@@ -1,11 +1,48 @@
 .sidebar {
     background-color: #1992d4;
+
+
+    /* child grid styles */
     grid-row: 1 / span 2;
-    /* height: 100vh; */
-    /* justify content stretch? */
+
+    /* parent grid styles */
+    display: grid;
+    grid-template-rows: 1fr 4fr 5fr;
 
     /* text styles */
     font-size: 2rem;
     font-weight: bold;
-    color: rgb(0, 0, 0);
+    color: rgb(254, 254, 254);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.sidebar-item {
+    display: flex;
+    gap: 20px;
+    justify-content: left;
+    align-items: center;
+    padding-left: 40px;
+}
+
+.group1 {
+    font-size: 2.5rem;
+}
+
+.group1 .icon {
+    width: 60px;
+    height: 60px;
+}
+
+.group2 {
+    display: grid;
+    grid-template-rows: repeat(6, 75px);
+    padding-top: 50px;
+
+}
+
+.group3 {
+    display: grid;
+    grid-template-rows: 75px 75px 75px;
+    padding-top: 50px;
 }
