@@ -45,6 +45,14 @@
     justify-self: left;
 }
 
+.row1 > *, .row2 > * {
+    cursor: pointer;
+}
+
+.row1 input {
+    cursor: auto;
+}
+
 /* ROW 2 STYLES */
 .row2 {
     /* grid parent styles */
@@ -83,14 +91,7 @@
     justify-self: left;
 }
 
-.row1 > *, .row2 > * {
-    cursor: pointer;
-}
-
 .row2 .welcome-msg{
     cursor: pointer;
 }
 
-.row1 input {
-    cursor: auto;
-}
