@@ -5,8 +5,7 @@
 
     /* grid parent styles */
     display: grid;
-    grid-template-rows: 150px 150px;
-    /* grid-template-rows: repeat(2, 1fr); */
+    grid-template-rows: 150px 100px;
 
     /* text styles */
     font-size: 2rem;
@@ -27,7 +26,6 @@
     justify-items: right; /* horizontal */
     align-items: center; /* vertical */
     column-gap: 2rem;
-    padding-top: 1rem;
 }
 
 .row1 input {
@@ -62,7 +60,6 @@
     justify-items: left; /* horizontal */
     align-items: center; /* vertical */
     column-gap: 2rem;
-    padding-bottom: 1rem;
 }
 
 .row2 .profile-picture {
