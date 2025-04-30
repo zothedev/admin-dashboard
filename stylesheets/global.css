@@ -10,6 +10,11 @@
     grid-template-rows: 1fr 4fr;
 }
 
+.small-icon {
+    width: 30px;
+    height: 30px;
+}
+
 .icon {
     width: 40px;
     height: 40px;
