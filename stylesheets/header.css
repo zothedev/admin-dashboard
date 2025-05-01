@@ -5,7 +5,7 @@
 
     /* grid parent styles */
     display: grid;
-    grid-template-rows: 150px 100px;
+    grid-template-rows: 130px 120px;
 
     /* text styles */
     font-size: 2rem;
@@ -60,6 +60,7 @@
     justify-items: left; /* horizontal */
     align-items: center; /* vertical */
     column-gap: 2rem;
+    
 }
 
 .row2 .profile-picture {
