@@ -1,5 +1,7 @@
 # CSS-Grid-Focussed Admin Dashboard
 
+**NOTE:** This project is specifically built for a 1920x1080 resolution. While responsive design is a critical part of web design, it is not covered until later in The Odin Projects curriculum.
+
 In this project, I was tasked with creating an Admin Dashboard layout based off the below design image.
 
 ![Design Image](./layout/dashboard-project.png)
