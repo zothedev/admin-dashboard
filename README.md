@@ -1,6 +1,6 @@
 # CSS-Grid-Focussed Admin Dashboard
 
-**NOTE:** This project is specifically built for a 1920x1080 resolution. While responsive design is a critical part of web design, it is not covered until later in The Odin Projects curriculum.
+**NOTE:** This project is specifically built for a 1920x1080 resolution. While responsive design is a critical part of web design, it is not covered until later in [The Odin Projects curriculum](https://www.theodinproject.com/).
 
 In this project, I was tasked with creating an Admin Dashboard layout based off the below design image.
 
@@ -8,7 +8,7 @@ In this project, I was tasked with creating an Admin Dashboard layout based off 
 
 This project is part of the Intermediate HTML/CSS Chapter within [The Odin Projects curriculum](https://www.theodinproject.com/). I was directed to primarily use CSS Grid to layout my content. I used CSS Grid to layout everything with the exception of flexbox for the individual .card elements and .user elements.
 
-By creating this Admin Dashboard from the design image, my ability to create a CSS Grid, and then more grids within those grids, is proven. I now have a great understanding of both CSS Grid and CSS Flexbox and how to use them together.
+My understanding of creating a grid, and then more grids within a grid, is proven with this project. I now have a great understanding of both CSS Grid and CSS Flexbox and how to use them together.
 
 ## Project Images:
 
